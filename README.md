@@ -1,8 +1,11 @@
-# singleton-pattern
+## Singleton Pattern
 
-    Design Pattern Sample - Singleton
+#### What is Singleton Pattern
 
-Samples
+Singleton pattern is a creational pattern. 
+
+
+#### Thread Safe Singleton Pattern Examples
 
 1) Eager Initialization
 2) Static Block Initialization
