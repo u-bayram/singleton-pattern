@@ -5,7 +5,7 @@ package singleton.samples;
  */
 public class SingletonLazyInitializationOptimization {
 
-    private static SingletonLazyInitializationOptimization singletonLazyInitializationOptimization;
+    private static volatile SingletonLazyInitializationOptimization singletonLazyInitializationOptimization;
 
     private SingletonLazyInitializationOptimization() {
 
